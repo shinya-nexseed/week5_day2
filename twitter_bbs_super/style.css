@@ -1,0 +1,17 @@
+.msg {
+  clear: both;
+  border-top: 1px solid #ccc;
+  padding: 10px 0;
+}
+.msg img {
+  float: left;
+  margin-right: 5px;
+}
+.msg p {
+  margin: 0;
+}
+.msg .day,
+.msg .day a {
+  font-size: 80%;
+  color: #999;
+}
